@@ -3,11 +3,11 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useLanguage } from '../contexts/LanguageContext';
-import { useTheme } from '../contexts/ThemeContext';
-import Navbar from '../components/Navbar';
-import lookat1Image from './assets/img/lookat1.png';
-import rimiamVibeIcon from './assets/img/rimiam-vibe.svg';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { useTheme } from '@/contexts/ThemeContext';
+import Navbar from '@/components/Navbar';
+import lookat1Image from '@/app/assets/img/lookat1.png';
+import rimiamVibeIcon from '@/app/assets/img/rimiam-vibe.svg';
 
 export default function Home({ params }) {
   const { t, currentLanguage } = useLanguage();

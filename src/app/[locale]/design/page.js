@@ -3,11 +3,11 @@
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useLanguage } from '../../contexts/LanguageContext';
-import { useTheme } from '../../contexts/ThemeContext';
-import Navbar from '../../components/Navbar';
-import lookat1Image from '../assets/img/lookat1.png';
-import lookat2Image from '../assets/img/lookat2.png';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { useTheme } from '@/contexts/ThemeContext';
+import Navbar from '@/components/Navbar';
+import lookat1Image from '@/app/assets/img/lookat1.png';
+import lookat2Image from '@/app/assets/img/lookat2.png';
 
 export default function DesignPage() {
   const { t } = useLanguage();

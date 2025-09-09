@@ -1,8 +1,8 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useLanguage } from '../../../contexts/LanguageContext';
-import Navbar from '../../../components/Navbar';
+import { useLanguage } from '@/contexts/LanguageContext';
+import Navbar from '@/components/Navbar';
 
 export default function GalleryPage({ params }) {
   const { t } = useLanguage();

@@ -1,12 +1,12 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useLanguage } from '../../contexts/LanguageContext';
-import Navbar from '../../components/Navbar';
+import { useLanguage } from '@/contexts/LanguageContext';
+import Navbar from '@/components/Navbar';
 import Image from 'next/image';
 
 // Import images
-import loveImage from '../assets/img/love.png';
+import loveImage from '@/app/assets/img/love.png';
 
 export default function MissionePage() {
   const { t } = useLanguage();

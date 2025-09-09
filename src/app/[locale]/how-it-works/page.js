@@ -1,13 +1,13 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useLanguage } from '../../contexts/LanguageContext';
-import Navbar from '../../components/Navbar';
+import { useLanguage } from '@/contexts/LanguageContext';
+import Navbar from '@/components/Navbar';
 import Image from 'next/image';
 
 // Import images
-import lookat1Image from '../assets/img/lookat1.png';
-import loveImage from '../assets/img/love.png';
+import lookat1Image from '@/app/assets/img/lookat1.png';
+import loveImage from '@/app/assets/img/love.png';
 
 export default function ComeFunzionaPage() {
   const { t } = useLanguage();

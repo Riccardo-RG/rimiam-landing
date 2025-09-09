@@ -1,13 +1,8 @@
 'use client';
 
 import Image from 'next/image';
-import { useLanguage } from '../../contexts/LanguageContext';
-import logoImage from '../assets/img/logo-v1.png';
-
-export const metadata = {
-  title: "Thank You - RIMIAM",
-  description: "Thank you for subscribing to RIMIAM updates.",
-};
+import { useLanguage } from '@/contexts/LanguageContext';
+import logoImage from '@/app/assets/img/logo-v1.png';
 
 export default function ThankYou() {
   const { t } = useLanguage();
