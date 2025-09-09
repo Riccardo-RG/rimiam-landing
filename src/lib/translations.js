@@ -289,6 +289,124 @@ export const translations = {
       backHome: "Back to Home"
     },
 
+    // Gallery
+    gallery: {
+      title: "Gallery",
+      description: "A visual journey through RIMIAM's design evolution and the emotions it inspires.",
+      categories: {
+        all: "All",
+        design: "Design",
+        branding: "Branding",
+        emotion: "Connection",
+        experience: "Experience"
+      },
+      images: {
+        logo: {
+          title: "RIMIAM Brand Identity",
+          description: "The elegant logo that represents our vision of intimate connection through technology."
+        },
+        concept1: {
+          title: "Design Concept - Elegance",
+          description: "Early design exploration focusing on the pendant's refined aesthetic and premium materials."
+        },
+        concept2: {
+          title: "Design Concept - Innovation",
+          description: "Advanced concept showcasing the seamless integration of technology within luxury design."
+        },
+        connection: {
+          title: "Emotional Connection",
+          description: "Visualizing the intimate bond that RIMIAM creates between loved ones across any distance."
+        },
+        focus: {
+          title: "Design Focus",
+          description: "Detailed view of RIMIAM's sophisticated design elements and craftsmanship attention."
+        },
+        audio: {
+          title: "Audio Experience",
+          description: "The subtle audio feedback that enhances the tactile connection experience."
+        }
+      },
+      development: {
+        title: "Work in Progress",
+        description: "These images represent our current design exploration. The final RIMIAM pendant will embody the perfect fusion of luxury craftsmanship and innovative technology."
+      }
+    },
+
+    // FAQ
+    faq: {
+      title: "Frequently Asked Questions",
+      hero: {
+        description: "Everything you need to know about RIMIAM - the luxury smart pendant designed for intimate connection."
+      },
+      connectivity: {
+        question: "How does RIMIAM connect two pendants?",
+        answer: "RIMIAM uses advanced Bluetooth 5.2 technology with end-to-end encryption to create a secure, private connection between paired pendants. The connection is established through our companion app and maintains a reliable link up to 100 meters in open space."
+      },
+      battery: {
+        question: "How long does the battery last?",
+        answer: "RIMIAM features a high-capacity lithium battery that provides up to 7 days of normal use on a single charge. The elegant charging dock uses wireless charging technology and can fully recharge your pendant in just 2 hours."
+      },
+      materials: {
+        question: "What materials is RIMIAM made from?",
+        answer: "Each RIMIAM pendant is crafted from premium 18k rose gold, surgical-grade stainless steel, and biocompatible polymer. All materials are hypoallergenic and designed for daily wear with IPX7 water resistance."
+      },
+      privacy: {
+        question: "How secure is my data?",
+        answer: "Privacy is paramount. RIMIAM uses military-grade AES-256 encryption for all communications. No personal data is stored on external servers - all connections are direct between your paired pendants. We cannot access your intimate moments."
+      },
+      range: {
+        question: "What's the connection range?",
+        answer: "RIMIAM maintains a strong connection up to 100 meters in open space. For longer distances, the pendants connect through your smartphone's internet connection, allowing unlimited range worldwide."
+      },
+      waterproof: {
+        question: "Is RIMIAM waterproof?",
+        answer: "Yes, RIMIAM is rated IPX7, making it fully waterproof for daily activities including showering, swimming, and water sports. The pendant is designed to be worn continuously without worry."
+      },
+      compatibility: {
+        question: "Which devices are compatible?",
+        answer: "RIMIAM is compatible with iOS 14+ and Android 8+ devices. The companion app is available on both App Store and Google Play, providing seamless setup and customization options."
+      },
+      warranty: {
+        question: "What warranty do you offer?",
+        answer: "Every RIMIAM pendant comes with a comprehensive 2-year warranty covering manufacturing defects and technical issues. We also offer premium support and repair services for the lifetime of your pendant."
+      },
+      specs: {
+        title: "Technical Specifications",
+        description: "Detailed technical information about RIMIAM's advanced features and premium construction.",
+        dimensions: {
+          title: "Dimensions & Weight",
+          diameter: "Diameter: 25mm (0.98 inches)",
+          thickness: "Thickness: 8mm (0.31 inches)",
+          weight: "Weight: 15g (0.53 oz)"
+        },
+        connectivity: {
+          title: "Connectivity",
+          bluetooth: "Bluetooth 5.2 with BLE",
+          range: "Range: 100m direct, unlimited via internet",
+          encryption: "AES-256 end-to-end encryption"
+        },
+        battery: {
+          title: "Battery & Charging",
+          life: "Battery life: Up to 7 days",
+          charging: "Wireless charging: 2 hours full charge",
+          wireless: "Qi-compatible charging dock included"
+        },
+        materials: {
+          title: "Premium Materials",
+          gold: "18k rose gold exterior",
+          steel: "Surgical-grade stainless steel core",
+          polymer: "Biocompatible polymer components",
+          rating: "IPX7 water resistance rating"
+        }
+      },
+      support: {
+        title: "Need More Help?",
+        description: "Join our community to stay updated on launch details and connect with other RIMIAM enthusiasts.",
+        joinWaitlist: "Join the Waitlist",
+        contactUs: "Contact Support"
+      }
+    },
+
     // Image Disclaimer
     imageDisclaimer: "AI-generated example, work in progress..."
   },
@@ -579,6 +697,124 @@ export const translations = {
       backHome: "Torna alla Home"
     },
 
+    // Gallery
+    gallery: {
+      title: "Galleria",
+      description: "Un viaggio visivo attraverso l'evoluzione del design di RIMIAM e le emozioni che ispira.",
+      categories: {
+        all: "Tutto",
+        design: "Design",
+        branding: "Brand",
+        emotion: "Connessione",
+        experience: "Esperienza"
+      },
+      images: {
+        logo: {
+          title: "Identità del Brand RIMIAM",
+          description: "L'elegante logo che rappresenta la nostra visione di connessione intima attraverso la tecnologia."
+        },
+        concept1: {
+          title: "Concept Design - Eleganza",
+          description: "Prima esplorazione del design focalizzata sull'estetica raffinata del pendente e sui materiali premium."
+        },
+        concept2: {
+          title: "Concept Design - Innovazione",
+          description: "Concept avanzato che mostra l'integrazione perfetta della tecnologia nel design di lusso."
+        },
+        connection: {
+          title: "Connessione Emotiva",
+          description: "Visualizzazione del legame intimo che RIMIAM crea tra persone care a qualsiasi distanza."
+        },
+        focus: {
+          title: "Focus del Design",
+          description: "Vista dettagliata degli elementi sofisticati del design di RIMIAM e dell'attenzione alla maestria artigianale."
+        },
+        audio: {
+          title: "Esperienza Audio",
+          description: "Il feedback audio sottile che arricchisce l'esperienza di connessione tattile."
+        }
+      },
+      development: {
+        title: "Work in Progress",
+        description: "Queste immagini rappresentano la nostra attuale esplorazione del design. Il pendente RIMIAM finale incarnerà la perfetta fusione tra maestria artigianale di lusso e tecnologia innovativa."
+      }
+    },
+
+    // FAQ
+    faq: {
+      title: "Domande Frequenti",
+      hero: {
+        description: "Tutto quello che devi sapere su RIMIAM - il pendente intelligente di lusso progettato per la connessione intima."
+      },
+      connectivity: {
+        question: "Come si connettono due pendenti RIMIAM?",
+        answer: "RIMIAM utilizza la tecnologia Bluetooth 5.2 avanzata con crittografia end-to-end per creare una connessione sicura e privata tra pendenti abbinati. La connessione viene stabilita tramite la nostra app companion e mantiene un collegamento affidabile fino a 100 metri in spazio aperto."
+      },
+      battery: {
+        question: "Quanto dura la batteria?",
+        answer: "RIMIAM è dotato di una batteria al litio ad alta capacità che fornisce fino a 7 giorni di uso normale con una singola carica. L'elegante dock di ricarica utilizza la tecnologia di ricarica wireless e può ricaricare completamente il tuo pendente in sole 2 ore."
+      },
+      materials: {
+        question: "Di quali materiali è fatto RIMIAM?",
+        answer: "Ogni pendente RIMIAM è realizzato in oro rosa 18k premium, acciaio inossidabile chirurgico e polimero biocompatibile. Tutti i materiali sono ipoallergenici e progettati per l'uso quotidiano con resistenza all'acqua IPX7."
+      },
+      privacy: {
+        question: "Quanto sono sicuri i miei dati?",
+        answer: "La privacy è fondamentale. RIMIAM utilizza la crittografia AES-256 di grado militare per tutte le comunicazioni. Nessun dato personale viene memorizzato su server esterni - tutte le connessioni sono dirette tra i tuoi pendenti abbinati. Non possiamo accedere ai tuoi momenti intimi."
+      },
+      range: {
+        question: "Qual è il raggio di connessione?",
+        answer: "RIMIAM mantiene una connessione forte fino a 100 metri in spazio aperto. Per distanze maggiori, i pendenti si connettono tramite la connessione internet del tuo smartphone, consentendo un raggio illimitato in tutto il mondo."
+      },
+      waterproof: {
+        question: "RIMIAM è impermeabile?",
+        answer: "Sì, RIMIAM ha certificazione IPX7, rendendolo completamente impermeabile per le attività quotidiane inclusi doccia, nuoto e sport acquatici. Il pendente è progettato per essere indossato continuamente senza preoccupazioni."
+      },
+      compatibility: {
+        question: "Quali dispositivi sono compatibili?",
+        answer: "RIMIAM è compatibile con dispositivi iOS 14+ e Android 8+. L'app companion è disponibile sia su App Store che su Google Play, fornendo opzioni di configurazione e personalizzazione senza problemi."
+      },
+      warranty: {
+        question: "Che garanzia offrite?",
+        answer: "Ogni pendente RIMIAM viene fornito con una garanzia completa di 2 anni che copre difetti di fabbricazione e problemi tecnici. Offriamo anche supporto premium e servizi di riparazione per tutta la vita del tuo pendente."
+      },
+      specs: {
+        title: "Specifiche Tecniche",
+        description: "Informazioni tecniche dettagliate sulle caratteristiche avanzate di RIMIAM e la costruzione premium.",
+        dimensions: {
+          title: "Dimensioni e Peso",
+          diameter: "Diametro: 25mm (0,98 pollici)",
+          thickness: "Spessore: 8mm (0,31 pollici)",
+          weight: "Peso: 15g (0,53 oz)"
+        },
+        connectivity: {
+          title: "Connettività",
+          bluetooth: "Bluetooth 5.2 con BLE",
+          range: "Raggio: 100m diretto, illimitato via internet",
+          encryption: "Crittografia end-to-end AES-256"
+        },
+        battery: {
+          title: "Batteria e Ricarica",
+          life: "Durata batteria: Fino a 7 giorni",
+          charging: "Ricarica wireless: 2 ore per carica completa",
+          wireless: "Dock di ricarica Qi-compatibile incluso"
+        },
+        materials: {
+          title: "Materiali Premium",
+          gold: "Esterno in oro rosa 18k",
+          steel: "Nucleo in acciaio inossidabile chirurgico",
+          polymer: "Componenti in polimero biocompatibile",
+          rating: "Certificazione di resistenza all'acqua IPX7"
+        }
+      },
+      support: {
+        title: "Hai Bisogno di Altro Aiuto?",
+        description: "Unisciti alla nostra community per rimanere aggiornato sui dettagli del lancio e connetterti con altri appassionati di RIMIAM.",
+        joinWaitlist: "Entra nella Lista",
+        contactUs: "Contatta il Supporto"
+      }
+    },
+
     // Image Disclaimer
     imageDisclaimer: "Esempio generato dall'AI, work in progress..."
   },
@@ -589,7 +825,9 @@ export const translations = {
       howItWorks: "Cómo funciona",
       design: "Diseño",
       mission: "Nuestra pasión",
-      updates: "Quiero saber más"
+      updates: "Quiero saber más",
+      gallery: "Galería",
+      faq: "FAQ"
     },
 
     // Hero Section
@@ -694,6 +932,124 @@ export const translations = {
       backHome: "Volver al inicio"
     },
 
+    // Gallery
+    gallery: {
+      title: "Galería",
+      description: "Un viaje visual a través de la evolución del diseño de RIMIAM y las emociones que inspira.",
+      categories: {
+        all: "Todo",
+        design: "Diseño",
+        branding: "Marca",
+        emotion: "Conexión",
+        experience: "Experiencia"
+      },
+      images: {
+        logo: {
+          title: "Identidad de Marca RIMIAM",
+          description: "El elegante logo que representa nuestra visión de conexión íntima a través de la tecnología."
+        },
+        concept1: {
+          title: "Concepto de Diseño - Elegancia",
+          description: "Primera exploración del diseño enfocada en la estética refinada del colgante y los materiales premium."
+        },
+        concept2: {
+          title: "Concepto de Diseño - Innovación",
+          description: "Concepto avanzado que muestra la integración perfecta de la tecnología dentro del diseño de lujo."
+        },
+        connection: {
+          title: "Conexión Emocional",
+          description: "Visualización del vínculo íntimo que RIMIAM crea entre seres queridos a cualquier distancia."
+        },
+        focus: {
+          title: "Enfoque del Diseño",
+          description: "Vista detallada de los elementos sofisticados del diseño de RIMIAM y la atención a la artesanía."
+        },
+        audio: {
+          title: "Experiencia de Audio",
+          description: "La retroalimentación de audio sutil que mejora la experiencia de conexión táctil."
+        }
+      },
+      development: {
+        title: "Trabajo en Progreso",
+        description: "Estas imágenes representan nuestra exploración actual del diseño. El colgante RIMIAM final encarnará la fusión perfecta entre artesanía de lujo y tecnología innovadora."
+      }
+    },
+
+    // FAQ
+    faq: {
+      title: "Preguntas Frecuentes",
+      hero: {
+        description: "Todo lo que necesitas saber sobre RIMIAM - el colgante inteligente de lujo diseñado para la conexión íntima."
+      },
+      connectivity: {
+        question: "¿Cómo se conectan dos colgantes RIMIAM?",
+        answer: "RIMIAM utiliza tecnología Bluetooth 5.2 avanzada con cifrado de extremo a extremo para crear una conexión segura y privada entre colgantes emparejados. La conexión se establece a través de nuestra app companion y mantiene un enlace confiable hasta 100 metros en espacio abierto."
+      },
+      battery: {
+        question: "¿Cuánto dura la batería?",
+        answer: "RIMIAM cuenta con una batería de litio de alta capacidad que proporciona hasta 7 días de uso normal con una sola carga. La elegante base de carga utiliza tecnología de carga inalámbrica y puede recargar completamente tu colgante en solo 2 horas."
+      },
+      materials: {
+        question: "¿De qué materiales está hecho RIMIAM?",
+        answer: "Cada colgante RIMIAM está elaborado con oro rosa de 18k premium, acero inoxidable de grado quirúrgico y polímero biocompatible. Todos los materiales son hipoalergénicos y diseñados para uso diario con resistencia al agua IPX7."
+      },
+      privacy: {
+        question: "¿Qué tan seguros están mis datos?",
+        answer: "La privacidad es primordial. RIMIAM utiliza cifrado AES-256 de grado militar para todas las comunicaciones. No se almacenan datos personales en servidores externos - todas las conexiones son directas entre tus colgantes emparejados. No podemos acceder a tus momentos íntimos."
+      },
+      range: {
+        question: "¿Cuál es el rango de conexión?",
+        answer: "RIMIAM mantiene una conexión fuerte hasta 100 metros en espacio abierto. Para distancias mayores, los colgantes se conectan a través de la conexión a internet de tu smartphone, permitiendo rango ilimitado en todo el mundo."
+      },
+      waterproof: {
+        question: "¿Es RIMIAM resistente al agua?",
+        answer: "Sí, RIMIAM tiene clasificación IPX7, haciéndolo completamente resistente al agua para actividades diarias incluyendo ducha, natación y deportes acuáticos. El colgante está diseñado para ser usado continuamente sin preocupaciones."
+      },
+      compatibility: {
+        question: "¿Qué dispositivos son compatibles?",
+        answer: "RIMIAM es compatible con dispositivos iOS 14+ y Android 8+. La app companion está disponible tanto en App Store como en Google Play, proporcionando opciones de configuración y personalización sin problemas."
+      },
+      warranty: {
+        question: "¿Qué garantía ofrecen?",
+        answer: "Cada colgante RIMIAM viene con una garantía integral de 2 años que cubre defectos de fabricación y problemas técnicos. También ofrecemos soporte premium y servicios de reparación durante toda la vida de tu colgante."
+      },
+      specs: {
+        title: "Especificaciones Técnicas",
+        description: "Información técnica detallada sobre las características avanzadas de RIMIAM y la construcción premium.",
+        dimensions: {
+          title: "Dimensiones y Peso",
+          diameter: "Diámetro: 25mm (0.98 pulgadas)",
+          thickness: "Grosor: 8mm (0.31 pulgadas)",
+          weight: "Peso: 15g (0.53 oz)"
+        },
+        connectivity: {
+          title: "Conectividad",
+          bluetooth: "Bluetooth 5.2 con BLE",
+          range: "Rango: 100m directo, ilimitado vía internet",
+          encryption: "Cifrado de extremo a extremo AES-256"
+        },
+        battery: {
+          title: "Batería y Carga",
+          life: "Duración de batería: Hasta 7 días",
+          charging: "Carga inalámbrica: 2 horas carga completa",
+          wireless: "Base de carga compatible con Qi incluida"
+        },
+        materials: {
+          title: "Materiales Premium",
+          gold: "Exterior de oro rosa 18k",
+          steel: "Núcleo de acero inoxidable quirúrgico",
+          polymer: "Componentes de polímero biocompatible",
+          rating: "Clasificación de resistencia al agua IPX7"
+        }
+      },
+      support: {
+        title: "¿Necesitas Más Ayuda?",
+        description: "Únete a nuestra comunidad para mantenerte actualizado sobre los detalles del lanzamiento y conectar con otros entusiastas de RIMIAM.",
+        joinWaitlist: "Únete a la Lista",
+        contactUs: "Contactar Soporte"
+      }
+    },
+
     // Image Disclaimer
     imageDisclaimer: "Ejemplo generado por IA, work in progress..."
   },
@@ -704,7 +1060,9 @@ export const translations = {
       howItWorks: "Funktionsweise",
       design: "Design",
       mission: "Unsere Vision",
-      updates: "Exklusiv informiert"
+      updates: "Exklusiv informiert",
+      gallery: "Galerie",
+      faq: "FAQ"
     },
 
     // Hero Section
@@ -807,6 +1165,124 @@ export const translations = {
       title: "Willkommen in der RIMIAM-Familie!",
       description: "Sie sind nun Teil unserer exklusiven Community. Wir halten Sie über jeden Schritt unserer Reise zum Launch auf dem Laufenden.",
       backHome: "Zurück zur Startseite"
+    },
+
+    // Gallery
+    gallery: {
+      title: "Galerie",
+      description: "Eine visuelle Reise durch die Designentwicklung von RIMIAM und die Emotionen, die es inspiriert.",
+      categories: {
+        all: "Alle",
+        design: "Design",
+        branding: "Marke",
+        emotion: "Verbindung",
+        experience: "Erfahrung"
+      },
+      images: {
+        logo: {
+          title: "RIMIAM Markenidentität",
+          description: "Das elegante Logo, das unsere Vision der intimen Verbindung durch Technologie repräsentiert."
+        },
+        concept1: {
+          title: "Design-Konzept - Eleganz",
+          description: "Frühe Designerkundung mit Fokus auf die raffinierte Ästhetik des Anhängers und Premium-Materialien."
+        },
+        concept2: {
+          title: "Design-Konzept - Innovation",
+          description: "Fortgeschrittenes Konzept, das die nahtlose Integration von Technologie in Luxus-Design zeigt."
+        },
+        connection: {
+          title: "Emotionale Verbindung",
+          description: "Visualisierung der intimen Bindung, die RIMIAM zwischen Liebenden über jede Entfernung schafft."
+        },
+        focus: {
+          title: "Design-Fokus",
+          description: "Detailansicht der raffinierten Designelemente von RIMIAM und der Aufmerksamkeit für Handwerkskunst."
+        },
+        audio: {
+          title: "Audio-Erfahrung",
+          description: "Das subtile Audio-Feedback, das die taktile Verbindungserfahrung bereichert."
+        }
+      },
+      development: {
+        title: "Work in Progress",
+        description: "Diese Bilder repräsentieren unsere aktuelle Designerkundung. Der finale RIMIAM-Anhänger wird die perfekte Fusion aus Luxus-Handwerkskunst und innovativer Technologie verkörpern."
+      }
+    },
+
+    // FAQ
+    faq: {
+      title: "Häufig Gestellte Fragen",
+      hero: {
+        description: "Alles was Sie über RIMIAM wissen müssen - den intelligenten Luxus-Anhänger für intime Verbindungen."
+      },
+      connectivity: {
+        question: "Wie verbinden sich zwei RIMIAM-Anhänger?",
+        answer: "RIMIAM nutzt fortschrittliche Bluetooth 5.2-Technologie mit Ende-zu-Ende-Verschlüsselung, um eine sichere, private Verbindung zwischen gepaarten Anhängern zu schaffen. Die Verbindung wird über unsere Begleit-App hergestellt und hält eine zuverlässige Verbindung bis zu 100 Meter im freien Raum aufrecht."
+      },
+      battery: {
+        question: "Wie lange hält die Batterie?",
+        answer: "RIMIAM verfügt über eine hochkapazitive Lithium-Batterie, die bis zu 7 Tage normaler Nutzung mit einer einzigen Ladung bietet. Die elegante Ladestation nutzt drahtlose Ladetechnologie und kann Ihren Anhänger in nur 2 Stunden vollständig aufladen."
+      },
+      materials: {
+        question: "Aus welchen Materialien besteht RIMIAM?",
+        answer: "Jeder RIMIAM-Anhänger ist aus Premium 18k Roségold, chirurgischem Edelstahl und biokompatiblem Polymer gefertigt. Alle Materialien sind hypoallergen und für den täglichen Gebrauch mit IPX7-Wasserschutz konzipiert."
+      },
+      privacy: {
+        question: "Wie sicher sind meine Daten?",
+        answer: "Privatsphäre ist von höchster Bedeutung. RIMIAM verwendet militärische AES-256-Verschlüsselung für alle Kommunikationen. Keine persönlichen Daten werden auf externen Servern gespeichert - alle Verbindungen sind direkt zwischen Ihren gepaarten Anhängern. Wir können nicht auf Ihre intimen Momente zugreifen."
+      },
+      range: {
+        question: "Welche Verbindungsreichweite gibt es?",
+        answer: "RIMIAM hält eine starke Verbindung bis zu 100 Meter im freien Raum aufrecht. Für größere Entfernungen verbinden sich die Anhänger über die Internetverbindung Ihres Smartphones und ermöglichen unbegrenzte Reichweite weltweit."
+      },
+      waterproof: {
+        question: "Ist RIMIAM wasserdicht?",
+        answer: "Ja, RIMIAM ist nach IPX7 zertifiziert und damit vollständig wasserdicht für tägliche Aktivitäten einschließlich Duschen, Schwimmen und Wassersport. Der Anhänger ist für kontinuierliches Tragen ohne Sorgen konzipiert."
+      },
+      compatibility: {
+        question: "Welche Geräte sind kompatibel?",
+        answer: "RIMIAM ist kompatibel mit iOS 14+ und Android 8+ Geräten. Die Begleit-App ist sowohl im App Store als auch bei Google Play verfügbar und bietet nahtlose Einrichtungs- und Anpassungsoptionen."
+      },
+      warranty: {
+        question: "Welche Garantie bieten Sie?",
+        answer: "Jeder RIMIAM-Anhänger kommt mit einer umfassenden 2-Jahres-Garantie, die Herstellungsfehler und technische Probleme abdeckt. Wir bieten auch Premium-Support und Reparaturservices für die Lebensdauer Ihres Anhängers."
+      },
+      specs: {
+        title: "Technische Spezifikationen",
+        description: "Detaillierte technische Informationen über RIMIAMs fortschrittliche Funktionen und Premium-Konstruktion.",
+        dimensions: {
+          title: "Abmessungen & Gewicht",
+          diameter: "Durchmesser: 25mm (0,98 Zoll)",
+          thickness: "Dicke: 8mm (0,31 Zoll)",
+          weight: "Gewicht: 15g (0,53 oz)"
+        },
+        connectivity: {
+          title: "Konnektivität",
+          bluetooth: "Bluetooth 5.2 mit BLE",
+          range: "Reichweite: 100m direkt, unbegrenzt via Internet",
+          encryption: "AES-256 Ende-zu-Ende-Verschlüsselung"
+        },
+        battery: {
+          title: "Batterie & Laden",
+          life: "Batterielaufzeit: Bis zu 7 Tage",
+          charging: "Drahtloses Laden: 2 Stunden Vollladung",
+          wireless: "Qi-kompatible Ladestation enthalten"
+        },
+        materials: {
+          title: "Premium-Materialien",
+          gold: "18k Roségold Außenseite",
+          steel: "Chirurgischer Edelstahl Kern",
+          polymer: "Biokompatible Polymer-Komponenten",
+          rating: "IPX7 Wasserschutz-Zertifizierung"
+        }
+      },
+      support: {
+        title: "Benötigen Sie Weitere Hilfe?",
+        description: "Treten Sie unserer Community bei, um über Launch-Details informiert zu bleiben und sich mit anderen RIMIAM-Enthusiasten zu vernetzen.",
+        joinWaitlist: "Der Warteliste Beitreten",
+        contactUs: "Support Kontaktieren"
+      }
     },
 
     // Image Disclaimer
