@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>RIMIAM - Lightning Heart (Duotone)</title>
+  <defs>
+    <style>
+      .heart{ fill:none; stroke: currentColor; stroke-width:6; stroke-linejoin:round; }
+      .bolt{ fill: currentColor; }
+    </style>
+  </defs>
+  <path class="heart" d="M50 92 C50 76, 5 56, 5 32 C5 14, 20 6, 32 6 C41 6, 47 10, 50 16 C53 10, 59 6, 68 6 C80 6, 95 14, 95 32 C95 56, 50 76, 50 92 Z"/>
+  <path class="bolt" d="M59 12 L43 42 H56 L38 76 L63 46 H50 Z" />
+</svg>
