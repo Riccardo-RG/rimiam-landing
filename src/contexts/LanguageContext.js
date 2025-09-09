@@ -30,7 +30,7 @@ export function LanguageProvider({ children }) {
   useEffect(() => {
     const localeFromPath = getLocaleFromPath();
     setCurrentLanguage(localeFromPath);
-  }, [pathname]);
+  }, [pathname, getLocaleFromPath]);
 
   const changeLanguage = (langCode) => {
     if (translations[langCode]) {

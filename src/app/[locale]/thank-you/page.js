@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import Link from 'next/link';
 import { useLanguage } from '@/contexts/LanguageContext';
 import logoImage from '@/app/assets/img/logo-v1.png';
 
@@ -37,12 +38,12 @@ export default function ThankYou() {
           </p>
 
           <div className="pt-8">
-            <a
+            <Link
               href="/"
               className="btn-primary inline-flex items-center"
             >
               {t('thankYou.backHome')}
-            </a>
+            </Link>
           </div>
         </div>
       </div>
